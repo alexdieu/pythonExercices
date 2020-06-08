@@ -25,5 +25,5 @@ def factorielle3(n):
 
 
 print(factorielle1(5))
-print(factorielle1(5))
+print(factorielle2(5))
 print(factorielle3(5))
