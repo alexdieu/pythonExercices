@@ -17,7 +17,7 @@ Tenait en son bec un fromage
 Maitre Renard, par l’odeur alleche 
 lui tint a peu pres ce langage"""
 
-# affiche les caracteres qui n'apparaisent qu'une fois
+# affiche les caracteres qui n'apparaissent qu'une fois
 
 auMoinsUneFois = set()
 auMoinsDeuxFois = set()
