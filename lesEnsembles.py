@@ -1,4 +1,4 @@
-# Les ensembles sont des structures de donnees avec les caracteristiques suivantes :
+#  Les ensembles sont des structures de donnees avec les caracteristiques suivantes :
 # – il n’y a pas d’acces indexe aux elements, ni d’ordre entre ces derniers,
 # – il n’y a pas de repetition des elements : un element appartient ou non a un ensemble, mais cela n’a pas de sens de se demander s’il s’y trouve plusieurs fois,
 # – en contrepartie, le test d’appartenance est optimise : le necessaire est fait pour que le test element ∈ ensemble ?(en Python : element in ensemble) puisse etre evalue de maniere extremement eﬃcace.
