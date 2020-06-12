@@ -12,9 +12,9 @@ s = set("abracadabra")
 print(s)
 
 
-texte = """Maitre Corbeau, sur un arbre perche 
+texte = """Maitre Corbeau, sur un arbre perché 
 Tenait en son bec un fromage 
-Maitre Renard, par l’odeur alleche 
+Maitre Renard, par l’odeur alleché 
 lui tint a peu pres ce langage"""
 
 # affiche les caracteres qui n'apparaissent qu'une fois
