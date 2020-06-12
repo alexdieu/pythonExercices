@@ -20,7 +20,7 @@
 # stop: Generate numbers up to, but not including this number.
 # step: Difference between each number in the sequence.
 
-# touver les nombres premiers
+# trouver les nombres premiers
 
 borne = 25
 premiers = [ ]
