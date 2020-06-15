@@ -14,7 +14,7 @@
 # dict.values() renvoie une copie de la liste des valeurs du dictionnaire dict,
 # dict.items() renvoie une copie de la liste des associations constituant le dictionnaire dict.
 
-texte = """Maitre Corbeau, sur un arbre perche Tenait en son bec un fromage Maitre Renard, par l’odeur alleche lui tint a peu pres ce langage"""
+texte = "Avec de l’audace, on peut tout entreprendre, on ne peut pas tout faire : Bonaparte"
 
 dict = { }
 for car in texte:
