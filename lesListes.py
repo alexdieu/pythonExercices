@@ -1,4 +1,4 @@
-# Une liste est une sequence modiﬁable : on peut changer ses elements, lui en ajouter et lui en enlever
+# Une liste est une séquence modiﬁable : on peut changer ses elements, lui en ajouter et lui en enlever
 
 # On construit une liste en ecrivant ses elements, separes par des virgules, encadres par les crochets.
 # La liste vide se note [ ]
@@ -20,7 +20,7 @@
 # stop: Generate numbers up to, but not including this number.
 # step: Difference between each number in the sequence.
 
-# touver les nombres premiers
+# trouver les nombres premiers
 
 borne = 25
 premiers = [ ]
