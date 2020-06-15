@@ -2,7 +2,7 @@
 # il n’y a pas deux couples ayant la meme cle
 # la recherche d’une valeur a partir de la cle correspondante soit extremement eﬃcace.
 
-#  expression d'un dictionnaire : { cle1 : valeur1 , cle2 : valeur2 , ... clek : valeurk }
+#  expression d'un dictionnaire : { cle1 : valeur1 , cle2 : valeur2 , ... clek : valeurs }
 
 
 # dict[cle] = valeur ajoute au dictionnaire dict une paire (cle, valeur) ou, si une telle paire existait deja, modiﬁe sa partie valeur,
